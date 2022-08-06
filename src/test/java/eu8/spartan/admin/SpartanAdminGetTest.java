@@ -20,6 +20,7 @@ import static net.serenitybdd.rest.SerenityRest.given;
 
 import static io.restassured.RestAssured.baseURI;
 
+@Disabled
 @SerenityTest
 public class SpartanAdminGetTest {
 
